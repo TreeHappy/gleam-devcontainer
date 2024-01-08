@@ -10,7 +10,7 @@ in your repo with content that looks something like this
 ```json
 {
     "name": "Gleam",
-        "image": "ghcr.io/stts-code-club/gleam-devcontainer:v0.2",
+    "image": "ghcr.io/stts-code-club/gleam-devcontainer:v0.2",
     "customizations": {
                 "vscode": {
                         "extensions": [
