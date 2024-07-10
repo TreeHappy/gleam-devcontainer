@@ -1,0 +1,15 @@
+{
+    "name": "Gleam",
+    "image": "ghcr.io/stts-code-club/gleam-devcontainer:v0.2",
+    "customizations": {
+                "vscode": {
+                        "extensions": [
+                                "tamasfe.even-better-toml",
+                                "gleam.gleam",
+                                "editorconfig.editorconfig",
+                                "github.copilot",
+                                "github.copilot-chat"
+                        ]
+                }
+        }
+}
