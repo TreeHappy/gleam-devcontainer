@@ -1,7 +1,7 @@
 FROM mcr.microsoft.com/devcontainers/base:alpine
 
 # Set build arguments for versions
-ARG GLEAM_VERSION=0.33.0
+ARG GLEAM_VERSION=1.3.1
 ARG ERLANG_VERSION=25.3.2.2-r0
 ARG TARGETARCH
 
